@@ -1,0 +1,50 @@
+{
+  "1234567890123": {
+    "barcode": "1234567890123",
+    "name": "Apple iPhone 15",
+    "price": 999.99,
+    "stock": 8
+  },
+  "2345678901234": {
+    "barcode": "2345678901234",
+    "name": "Samsung Galaxy S24",
+    "price": 899.99,
+    "stock": 15
+  },
+  "3456789012345": {
+    "barcode": "3456789012345",
+    "name": "Coca Cola 500ml",
+    "price": 2.5,
+    "stock": 98
+  },
+  "4567890123456": {
+    "barcode": "4567890123456",
+    "name": "Bread Loaf",
+    "price": 3.99,
+    "stock": 50
+  },
+  "5678901234567": {
+    "barcode": "5678901234567",
+    "name": "Milk 1L",
+    "price": 4.99,
+    "stock": 30
+  },
+  "6789012345678": {
+    "barcode": "6789012345678",
+    "name": "Laptop Dell XPS",
+    "price": 1299.99,
+    "stock": 5
+  },
+  "7890123456789": {
+    "barcode": "7890123456789",
+    "name": "Wireless Mouse",
+    "price": 29.99,
+    "stock": 25
+  },
+  "8901234567890": {
+    "barcode": "8901234567890",
+    "name": "Coffee Beans 1kg",
+    "price": 15.99,
+    "stock": 40
+  }
+}

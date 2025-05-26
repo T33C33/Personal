@@ -1,0 +1,172 @@
+{
+  "workplaces": {
+    "Nascomsoft Embedded": {
+      "halls": {
+        "Staff Room": {
+          "seats": {
+            "Staff Room-001": {
+              "position": {
+                "row": 0,
+                "col": 0
+              },
+              "created_date": "2025-05-26 14:03:52"
+            },
+            "Staff Room-002": {
+              "position": {
+                "row": 0,
+                "col": 1
+              },
+              "created_date": "2025-05-26 14:03:52"
+            },
+            "Staff Room-003": {
+              "position": {
+                "row": 0,
+                "col": 2
+              },
+              "created_date": "2025-05-26 14:03:52"
+            },
+            "Staff Room-004": {
+              "position": {
+                "row": 0,
+                "col": 3
+              },
+              "created_date": "2025-05-26 14:03:52"
+            },
+            "Staff Room-005": {
+              "position": {
+                "row": 0,
+                "col": 4
+              },
+              "created_date": "2025-05-26 14:03:52"
+            },
+            "Staff Room-006": {
+              "position": {
+                "row": 0,
+                "col": 5
+              },
+              "created_date": "2025-05-26 14:03:52"
+            },
+            "Staff Room-007": {
+              "position": {
+                "row": 0,
+                "col": 6
+              },
+              "created_date": "2025-05-26 14:03:52"
+            },
+            "Staff Room-008": {
+              "position": {
+                "row": 0,
+                "col": 7
+              },
+              "created_date": "2025-05-26 14:03:52"
+            },
+            "Staff Room-009": {
+              "position": {
+                "row": 0,
+                "col": 8
+              },
+              "created_date": "2025-05-26 14:03:52"
+            },
+            "Staff Room-010": {
+              "position": {
+                "row": 0,
+                "col": 9
+              },
+              "created_date": "2025-05-26 14:03:52"
+            },
+            "Staff Room-011": {
+              "position": {
+                "row": 1,
+                "col": 0
+              },
+              "created_date": "2025-05-26 14:11:09"
+            },
+            "Staff Room-012": {
+              "position": {
+                "row": 1,
+                "col": 1
+              },
+              "created_date": "2025-05-26 14:11:09"
+            },
+            "Staff Room-013": {
+              "position": {
+                "row": 1,
+                "col": 2
+              },
+              "created_date": "2025-05-26 14:11:09"
+            },
+            "Staff Room-014": {
+              "position": {
+                "row": 1,
+                "col": 3
+              },
+              "created_date": "2025-05-26 14:11:09"
+            },
+            "Staff Room-015": {
+              "position": {
+                "row": 1,
+                "col": 4
+              },
+              "created_date": "2025-05-26 14:11:09"
+            },
+            "Staff Room-016": {
+              "position": {
+                "row": 1,
+                "col": 5
+              },
+              "created_date": "2025-05-26 14:11:09"
+            },
+            "Staff Room-017": {
+              "position": {
+                "row": 1,
+                "col": 6
+              },
+              "created_date": "2025-05-26 14:11:09"
+            },
+            "Staff Room-018": {
+              "position": {
+                "row": 1,
+                "col": 7
+              },
+              "created_date": "2025-05-26 14:11:09"
+            },
+            "Staff Room-019": {
+              "position": {
+                "row": 1,
+                "col": 8
+              },
+              "created_date": "2025-05-26 14:11:09"
+            },
+            "Staff Room-020": {
+              "position": {
+                "row": 1,
+                "col": 9
+              },
+              "created_date": "2025-05-26 14:11:09"
+            }
+          },
+          "layout": {
+            "rows": 2,
+            "cols": 10
+          },
+          "created_date": "2025-05-26 14:03:52"
+        }
+      },
+      "description": "5 Halls",
+      "created_date": "2025-05-26 14:03:02"
+    }
+  },
+  "bookings": {},
+  "users": {},
+  "attendance": {},
+  "time_frames": [
+    "09:00-10:00",
+    "10:00-11:00",
+    "11:00-12:00",
+    "12:00-13:00",
+    "13:00-14:00",
+    "14:00-15:00",
+    "15:00-16:00",
+    "16:00-17:00"
+  ]
+}

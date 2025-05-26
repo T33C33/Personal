@@ -1,0 +1,1 @@
+{"dark_mode": true, "units": "metric", "locations": ["New York", "London", "Tokyo"], "current_location": "New York", "refresh_rate": 30, "alerts": {"rain": true, "snow": true, "extreme_temp": true, "wind": true}}

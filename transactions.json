@@ -1,0 +1,24 @@
+[
+  {
+    "id": "0Z140MN7",
+    "date": "2025-05-26T11:00:50.100187",
+    "items": [
+      {
+        "name": "Apple iPhone 15",
+        "price": 999.99,
+        "quantity": 2,
+        "total": 1999.98
+      },
+      {
+        "name": "Coca Cola 500ml",
+        "price": 2.5,
+        "quantity": 2,
+        "total": 5.0
+      }
+    ],
+    "subtotal": 2004.98,
+    "tax": 170.4233,
+    "total": 2175.4033,
+    "payment_method": "Card"
+  }
+]
